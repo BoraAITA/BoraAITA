@@ -37,3 +37,7 @@
 ---
 
 > *"Kod yazmak bir sanattır, her satır bir eserdir."* ✨
+
+---
+
+*Bu README Hermes Agent tarafından otomatik olusturulmustur.* 🤖
