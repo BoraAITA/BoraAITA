@@ -36,7 +36,9 @@
 
 ### 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoraAITA)
+[![Website](https://img.shields.io/badge/Website-boraturkoglu.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://boraturkoglu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-boracomet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boracomet)
+[![GitHub](https://img.shields.io/badge/GitHub-BoraAITA-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoraAITA)
 
 ---
 
